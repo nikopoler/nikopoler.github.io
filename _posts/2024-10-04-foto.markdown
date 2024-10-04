@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Фотографія"
+date:   2024-10-03 23:58:55 +0300
+categories: jekyll update
+---
+
+Спробуємо вставити фотку
+
+![My helpful screenshot](/assets/foto/IMG_0509_crop.jpg)
+
+
